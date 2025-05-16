@@ -1,4 +1,4 @@
-# UNO Game but designed in Python : A simple, text-based 2-player UNO game built using Python. 
+# UNO Game but designed in Python : A simple, text-based 2-player game.
 
 FEATURES INCLUDE:
 
